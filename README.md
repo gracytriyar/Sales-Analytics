@@ -1,5 +1,24 @@
 # Sales Analytics Dashboard
 
+## 🏢 Business Problem / Context
+A retail company wants to improve revenue, optimize product performance, and enhance customer retention.  
+They have detailed sales transaction data with customers, products, dates, regions, and shipping info.  
+However, they don’t know:  
+- Which products are profitable or underperforming  
+- Who their top customers are  
+- How geography impacts sales  
+- How shipping affects delivery efficiency and customer satisfaction  
+- How sales trends evolve over time  
+
+Your task is to provide actionable insights that can help the business make strategic decisions.  
+
+---
+
+## 🎯 Business Problem Statement
+The company aims to **increase revenue, optimize product performance, improve customer retention, and make data-driven operational decisions**.  
+Using detailed sales data, the project identifies **top products, customers, and regions**, analyzes **revenue patterns**, assesses **operational efficiency**, and forecasts **future sales** to guide strategic business actions.  
+
+---
 ## 📌 Project Overview
 This project demonstrates **end-to-end Sales Analytics** using Python, MySQL, and Power BI.  
 The goal is to analyze sales data to uncover **revenue trends, customer behavior, product performance, and regional insights**, and to present findings through interactive dashboards.
