@@ -30,6 +30,16 @@ The goal is to analyze sales data to uncover **revenue trends, customer behavior
 - **MySQL** → Data querying and preparation for analysis  
 - **Power BI** → Created interactive dashboards with dynamic slicers and three main views (Overall, Geography, Product)  
 
+⚙️ Tech Stack
+
+The dashboard was built using the following tools and technologies:
+	•	Power BI Desktop → Main data visualization platform used for creating the report.
+	•	Power Query → Data transformation and cleaning layer for reshaping and preparing raw data.
+	•	DAX (Data Analysis Expressions) → Used for calculated measures, dynamic visuals, and conditional logic.
+	•	Data Modeling → Relationships established among tables (e.g., sales, customers, products) to enable cross-functional insights.
+	•	Bookmarks → Implemented to enable dynamic navigation and visibility (e.g., switching between different dashboard views such as Product Analysis or Geographical Analysis).
+	•	File Formats → .pbix (development file) and .png (dashboard preview images).
+ 
 ---
 
 ## 📊 Key Analyses
